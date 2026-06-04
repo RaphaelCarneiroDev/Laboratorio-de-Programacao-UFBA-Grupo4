@@ -3,7 +3,18 @@
 
 ## Repositório destinado a conclusão de atividades propostas pela disciplina de Laboratório de Programação I.
 
-
+# Membros:
+```text
+Ana Lívia Abreu
+Breno Almeida
+João Pedro Gonçalves
+Kit Meng Ng
+Tiago Souza
+Raphael Carneiro
+Sthefany dos Santos
+Thales Sena
+Thaise Adrielle Martins
+```
 # Lista de Exercícios
 
 ## Atividade 1 - Soma de Dois Inteiros
